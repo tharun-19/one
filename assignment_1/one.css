@@ -1,0 +1,246 @@
+*{
+    font-family: poppins;
+    box-sizing: border-box;
+}
+.header{
+    background-color: #ce0505;
+    height: 80px;
+    width: auto;
+}
+.header_logo{
+    display: inline-block;
+    width: 52px;
+    height: 52px;
+    background-color: #ffff;
+    border-radius: 52%;
+    font-size: 33px;
+    color: #eb2929;
+    margin-left: 7%;
+    margin-top: 1%;
+    text-align: center;
+}
+.login{
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 500;
+    text-align: left;
+    color: #ffff;
+    padding-right: 10px;
+
+}
+.account{
+    display: inline-block;
+    margin: 10px 10px 0px 5px;
+    color: #ffff;
+    border: solid 1px #ffff;
+    padding: 8px 8px 8px 8px;
+    border-radius: 5%;
+}
+.main{
+    background-color: #fbfbfb;
+}
+.h_content{
+    margin-top: 1%;
+    float: right;
+    margin-right: 4%;
+    text-align: left;
+}
+
+
+.heading{
+    width: 512px;
+    height: 51px;
+    margin: 37px 25px 27px 113px;
+    font-size: 36px;
+    font-weight: bold;
+    color: #192f60;
+    text-align: left;
+    line-height: 1.53;
+}
+.filters{
+    width: 260px;
+    height: 682px;
+    margin: 27px 55px 8px 113px;
+    padding: 17px 25px 31px 26px;
+    box-shadow: 0 3px 6px 0 rgba(0,0,0,0.16);
+    background-color: #fff;
+    display: inline-block;
+}
+
+
+.item{
+
+    width: 794px;
+    height: 291px;
+    margin: 27px 154px 24px 45px;
+    padding: 25px 5px 10px 15px;
+    box-shadow: 0 3px 6px 0 rgba(0,0,0,0.16);
+    background-color: #fff;
+  
+   
+  
+}
+.image1{
+width: 120px;
+  height: 120px;
+  margin: 0 41px 31px 0;
+  object-fit: fill;
+  border-radius: 15px;
+ 
+}
+
+.t1{
+    width: 298px;
+    height: 43px;
+    margin: 0px 0px 0px 0px;
+    font-size: 27px;
+    font-weight: 600;
+    text-align: left;
+    color: #192f60;
+    display: inline-block;
+}
+.t2{
+    width: 39px;
+    height: 23px;
+    margin: 5px 0px 5px 0px;
+    font-size: 16px;
+    font-weight: 500;
+    color: #192f60;
+    line-height: 1.88;
+}
+.t3{
+    width: 500px;
+    height: 23px;
+    margin: 5px 0px 38px 0px;
+    font-size: 16px;
+    line-height: 1.88;
+    color: #636f88;
+}
+.break{
+    width: 726.4px;
+    height: 0;
+    margin: 5px 0 0px;
+    border: solid 1px #dedfe5;
+}
+
+.s1{
+    
+    display: inline-block; 
+    vertical-align: top;    
+
+}
+.table{
+    
+    display: inline-block;
+    width: 350px;
+    height: 118px;
+    
+    margin: 0px 25px 0px 5px;
+    
+}
+.cuisine{
+    
+    font-size: 16px;
+    line-height: 1.88;
+    color: #636f88;
+    padding: 0 40px 0 0;
+    
+    
+}
+.it{
+   
+    color:#192f60;
+    
+} 
+   
+.fil{
+    width: 55px;
+    height: 25px;
+    margin: 0 154px 15px 0;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 1.5;
+    color: #192f60;
+}
+.loc{
+    width: 106px;
+    height: 20px;
+    margin: 29px 102px 11px 1px;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #192f60;
+}
+.dd{
+    width: 208px;
+    height: 35px;
+    margin: 11px 0px 22px 1px;
+    padding: 8px 16px 7px 15px;
+    border-radius: 3px;
+    border: solid 1px #8c96ab;
+}
+.cuisinetypes{
+    width: 52px;
+    height: 20px;
+    margin: 22px 157px 35px 1px;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #192f60;
+    font-weight: 900;
+}
+.cus_cb{
+    width: 200px;
+    height: 20px;
+    font-size: 15px;
+    line-height: 1.5;
+    color: #8c96ab;
+    vertical-align: top;
+    margin: 0px 30px 10px 0px;
+}
+.cft{
+    width: 89px;
+    height: 20px;
+    font-size:14px;
+    font-weight: 800;
+}
+.cft_v{
+    width: 200px;
+    height: 20px;
+    font-size: 14px;
+    color: #8c96ab;
+    line-height: 1.5;
+
+}
+.sort{
+    width: 37px;
+    height: 25px;
+    font-size: 18px;
+    color: #192f60;
+    line-height: 1.5;
+    font-weight: 800;
+}
+.sort_v{
+    width: 200px;
+    height: 20px;
+    font-size: 14px;
+    color: #8c96ab;
+    line-height: 1.5;
+
+}
+.numberbox {
+    width: 100%;
+    height: 50px;
+    background-color: rgb(255, 255, 255);
+  }
+  .numbox_ul {
+    padding-top: 0px;
+    padding-left: 200px;
+  }
+  .numbox_li {
+    display: inline;
+    width: 36px;
+    height: 36px;
+    border-radius: 7px;
+    border: 1px solid black;
+    padding: 10px;
+  }
+
